@@ -1,6 +1,6 @@
 
-This is a modification of the Cleanse library with all the tests removed in order to get the swift-3 branch working with Carthage.
----------------
+
+
 Cleanse - Swift Dependency Injection
 ====================================
 
@@ -23,6 +23,10 @@ Cleanse is currently in *beta* phase. This means its API is subject to change (b
 .. _dependency injection: https://en.wikipedia.org/wiki/Dependency_injection
 .. _Guice: https://github.com/google/guice
 .. _Dagger: http://google.github.io/dagger/
+
+Note
+---------------
+This is a modification of the Cleanse library to get it working with swift-3 and carthage
 
 Getting Started
 ---------------
