@@ -1,3 +1,6 @@
+
+This is a modification of the Cleanse library with all the tests removed in order to get the swift-3 branch working with Carthage.
+---------------
 Cleanse - Swift Dependency Injection
 ====================================
 
@@ -11,7 +14,7 @@ Cleanse - Swift Dependency Injection
 .. image:: https://coveralls.io/repos/github/square/Cleanse/badge.svg?branch=master&asdf
   :target: https://coveralls.io/github/square/Cleanse?branch=master
 
-  
+
 Cleanse is a `dependency injection`_ framework for Swift. It is designed from the ground-up with *developer experience*
 in mind. It takes inspiration from both `Dagger`_ and `Guice`_.
 
